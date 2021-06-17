@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "4c5196e3-d352-4afd-b319-c2ebc0b25078",
+      "name": "sonam05",
+      "email": "ssonamkamble@gmail.com"
+    },
+    {
+      "id": "2855e8c2-46ea-4703-9cfd-00e8aa6ace9d",
+      "name": "Sonam K",
+      "email": "stamgadge@xansrtech.com"
+    },
+    {
+      "id": "cbb8970c-176a-44ce-90b4-1b3f5573aedb",
+      "name": "Sonam Kamble",
+      "email": "swapniltamgadge22@gmail.com"
+    },
+    {
+      "id": "8b0afb39-e6b8-4d3e-812e-c4eebeea193a",
+      "name": "Test",
+      "email": "test@gmail.com"
+    }
+  ]
+}
